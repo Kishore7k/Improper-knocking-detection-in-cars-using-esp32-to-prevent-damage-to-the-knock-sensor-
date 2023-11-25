@@ -6,8 +6,8 @@
 #define TOKEN "YourUbidotsToken"
 #define MQTT_CLIENT_NAME "YourMQTTClientName"
 
-#define VARIABLE_LABEL "..."// Assing the variable label
-#define DEVICE_LABEL "..."// Assig the device label
+#define VARIABLE_LABEL "..."// Assign the variable label
+#define DEVICE_LABEL "..."// Assign the device label
 #define VIBRATION_SENSOR_PIN 34
 #define THERMISTOR_PIN 35
 
